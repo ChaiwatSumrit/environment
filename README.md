@@ -61,3 +61,16 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.1 1.4.1 0.4.15
 git clone https://github.com/hyperledger/fabric-samples.git
 ```
 
+## Building Your First Network
+- https://hyperledger-fabric.readthedocs.io/en/release-1.4/build_network.html
+
+ctrl+F 
+```
+Manually generate the artifacts
+```
+
+
+
+
+
+
